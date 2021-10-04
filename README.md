@@ -26,4 +26,4 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c -o
 * _ printf("%c", 'a') prints the character 'a'
 
 ## Authors
-Oluwasegun Coker && Natnael Mesala
+Oluwasegun Coker && Natnael Melesa
