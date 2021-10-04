@@ -4,17 +4,17 @@ Inspired by printf from the C Standard Library
 
 ## Installation
 ```bash
-git clone git@github.com:anaruzz/printf.git
+https://github.com/Cokeroluwasegun/printf.git
 ```
 
 ## Compilation
 * The code will be compiled this way:
 ```bash
-$ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+$ gcc -Wall -Werror -Wextra -pedantic *.c -o 
 ```
 
 ## Usage
-* Include holberton.h
+* Include main.h
 * Call the function _ printf passing optional arguments.
 * Use format specifiers for desired output.
 * The function returns -1 if an error occurs.
@@ -26,4 +26,4 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 * _ printf("%c", 'a') prints the character 'a'
 
 ## Authors
-Oluwasegun Coker
+Oluwasegun Coker && Natnael Mesala
